@@ -1,0 +1,15 @@
+body {
+  background-color: #eee;
+}
+.navbar a {
+  color: white !important;
+}
+.col-content {
+  background-color: white;
+}
+.hasil {
+  background-color: white;
+}
+.card {
+  width: 14rem;
+}
